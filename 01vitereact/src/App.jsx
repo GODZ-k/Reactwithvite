@@ -12,9 +12,6 @@ function App() {
     count += 1
     setCounter(count)
    }
-  //  else{
-  //   setCounter(count)
-  //  }
      }
    let valuedown =() => {
     if (count >0){
